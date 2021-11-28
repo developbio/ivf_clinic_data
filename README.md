@@ -1,5 +1,5 @@
 <iframe
-	src="./images/perc_bank_continental_2011_2019.html"
+	src="perc_bank_continental_2011_2019.html"
 	width="700"
 	height="394"
 	frameborder="0"
