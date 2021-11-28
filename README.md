@@ -1,5 +1,5 @@
 # IVF Clinic Data
-See [riemann.bio](riemann.bio) for interactive geographic plot of city-level trends in assisted reproductive therapy usage.
+See [riemann.bio]("https://riemann.bio") for interactive geographic plot of city-level trends in assisted reproductive therapy usage.
 
 <img src=cycle_by_type_vs_year.png>
 
