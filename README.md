@@ -1,9 +1,9 @@
 # IVF Clinic Data
 
-<img src="banking_map_static.png">
+<img src="banking_map_static.PNG">
 City-level trends in egg-banking as percentage of all assisted reproductive therapy cycles, circle size proportional to total number of cycles in that city that year. 
 
-Click on above image for an interactive version (you can hover over cities, box-select to zoom in,  of the above plot of city-level trends in assisted reproductive therapy usage.
+**Click on above image to open an interactive version (you can hover over cities, box-select to zoom in, and animate the plot).**
 
 <img src=cycle_by_type_vs_year.png>
 
