@@ -11,6 +11,9 @@ The data are messy and year-to-year trends aren't always consistent (some cities
 
 <img src=cycle_by_type_vs_year.png>
 
+<img src=tubal_bank_mixed_model_faceted.png>
+Exploring interaction effect between year, percentage banking, and percentage with tubal factor disorder across cities—uses weighted least squares, where weights ~ log_10(total number of cycles in that city).
+
 # About
 Downloads clinic-level and national [CDC data on assisted reproductive therapy success rates](https://www.cdc.gov/art/artdata/index.html) going back to the 90s. After cleaning and harmonizing, aggregates data at the city level and plots some trends. 
 
