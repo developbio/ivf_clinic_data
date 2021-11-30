@@ -1,6 +1,10 @@
 # IVF Clinic Data
 
-See [riemann.bio]("https://www.riemann.bio") for an interactive version of the above plot of city-level trends in assisted reproductive therapy usage.
+[![]("percentage_banking_static.png")]("https://developbio.github.io/reprotech/")
+
+City-level trends in egg-banking as percentage of all assisted reproductive therapy cycles, circle size proportional to total number of cycles in that city that year. 
+
+Click on above image for an interactive version (you can hover over cities, box-select to zoom in,  of the above plot of city-level trends in assisted reproductive therapy usage.
 
 <img src=cycle_by_type_vs_year.png>
 
