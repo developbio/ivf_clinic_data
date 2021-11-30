@@ -5,6 +5,8 @@ City-level trends in egg-banking as percentage of all assisted reproductive ther
 
 **Click on the above image to open an interactive version (you can hover over cities for more information, box-select to zoom in on a region, and watch an animated plot).**
 
+The data are messy and year-to-year trends aren't always consistent (some cities just fall off the map suddenly, some cities' egg-banking percentages change suddenly, etc.), see below. However, the overall, nation-wide longitudinal trends are consistent.
+
 &nbsp;
 
 <img src=cycle_by_type_vs_year.png>
