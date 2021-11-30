@@ -1,6 +1,6 @@
 # IVF Clinic Data
 
-<img src="banking_map_static.PNG">
+<a href="https://developbio.github.io/reprotech/"><img src="banking_map_static.PNG"></a>
 City-level trends in egg-banking as percentage of all assisted reproductive therapy cycles, circle size proportional to total number of cycles in that city that year.
 
 &nbsp;
