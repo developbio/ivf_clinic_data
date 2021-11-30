@@ -3,7 +3,9 @@
 <a href="https://developbio.github.io/reprotech/"><img src="banking_map_static.PNG"></a>
 City-level trends in egg-banking as percentage of all assisted reproductive therapy cycles, circle size proportional to total number of cycles in that city that year.
 
-**Click on the image to open an interactive version (you can hover over cities for more information, box-select to zoom in on a region, and watch an animated plot).**
+**Click on the above image to open an interactive version (you can hover over cities for more information, box-select to zoom in on a region, and watch an animated plot).**
+
+&nbsp;
 
 <img src=cycle_by_type_vs_year.png>
 
